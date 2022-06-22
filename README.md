@@ -71,7 +71,7 @@
 - ##### While late and cancelled flights can often be out of our control, it’s worth discussing with employees directly involved to identify possible causes. Ex. Air Traffic Controllers.
 - ##### Create/revise reimbursement/rebooking policies in the event of cancelled flights.
 - ##### Create/revise policies offering lodging, transportation, or food vouchers, as well as reimbursement in the event of late flights and lost luggage's.
-- ##### Re-work logistics and reporting of luggage's.
+- ##### Re-work logistics and reporting of checked-in luggage's.
 - ##### Coordinate with flight crews to determine necessary equipment upgrades.
 - ##### Increase in-flight selections for food, entertainment, and comfort. 
 - ##### Create perks for repeat customers.
