@@ -5,7 +5,7 @@
 
 ##### Case Study: An airline company named Freefall Airlines does not have the best reputation, and they are trying to remedy that. They have tasked me with analyzing data from Twitter that captures people’s sentiments about various airline companies. The marketing team will use my results to come up with a brand-new advertising campaign modeled around the most positively rated airlines. My analysis would also be focusing on an airline to understand and show Freefall Airlines what to do/not to do and how to tackle these issues. 
 
-##### Important notes: There is no Twitter data provided for Freefall Airlines, so we can not identify issues specific to Freefall. We are instead analyzing other airlines to create a general example for success that they can follow. 
+##### Important notes: There is no Twitter data provided for Freefall Airlines, so we can not identify issues specific to Freefall. We are instead analyzing other airlines to create a general example for success.
 
 <img src="./Graphics/Slide1.PNG" width="100%" height="100%" />
 
@@ -32,7 +32,7 @@
 <img src="./Graphics/Slide4.PNG" width="100%" height="100%" /> 
 
 ##### Now that we get the overall picture, let’s zoom in on the airlines themselves and observe where each stands. This histogram also helps puts things into perspective. Focusing on one of these airlines will provide additional information to help reinforce what steps Freefall should take.
-- ##### Virgin America received the least amount of Tweets with 504, yet 30 percent of its total were positive; the highest amongst the group. It is excluded as an option for further study due to the low amount of Tweets
+- ##### Virgin America received the least amount of Tweets with 504, yet 30 percent of its total were positive; the highest amongst the group. It is excluded as an option for further study due to the low amount of Tweets to support it.
 - ##### The ranks then move in order from Delta, then Southwest, United, American, and lastly US Airways.
 - ##### United, American, and US Airways clearly received high negative sentiment and were eliminated as choices.
 - ##### Both Delta and Southwest were comparable. Both are equally strong with 24 percent of Tweets being positive, yet Delta has less negative Tweets. It is true there is a slight edge to Southwest having stronger data with 198 more total Tweets. Let’s make an assumption that Delta’s next 198 Tweets were negative and that was added to its count, it would still have less negative Tweets than Southwest. As it stands when comparing negative reasons, Delta does better than Southwest in 7 out of 10 Negative Reason categories. This is why I chose Delta as the overall best airline to focus on. 
