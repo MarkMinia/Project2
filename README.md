@@ -7,13 +7,13 @@
 
 ##### Important notes: There is no Twitter data provided for Freefall Airlines, so we can not identify issues specific to Freefall. We are instead analyzing other airlines to create a general example for success.
 
-<img src="./Graphics/Slide1.PNG" width="100%" height="100%" />
+<img src="./Graphics/Slide1.PNG" width="120%" height="120%" />
 
 ##### Every passing second about 6,000 Tweets are posted. What are people talking about? Hopefully, how great Freefall Airlines is, right? We spend a lot of time on social media and Twitter is one of the largest platforms out there. Data is constantly collected from users for the world to see in the form of memes, food pics, and your favorite quote from your favorite book nobody has read. There are approximately 500 million Tweets per day and amidst all that nonsense there is significant value that can be extracted from that data. 
 
 ##### Customer Tweets from 2015 have been collected for analysis. These Tweets mention various airlines in the industry and are either positive, neutral, or negative in sentiment. Customer feedback can boost or damage an airlines’ reputation, so filtering through the negative remarks can provide insight into what actions should be taken. Freefall Airlines is deeply concerned about their declining reputation and wants to resolve it. This is where we step in. We’ve been tasked to analyze the top 6 airlines (in no particular order): Virgin America, US Airways, Delta, Southwest, American, and United. We want to understand what they are doing well and where they are failing. This information should also assist the marketing team as they begin planning on a brand-new marketing campaign to kick-start the rise of Freefall Airlines.
 
-<img src="./Graphics/Slide2.PNG" width="100%" height="100%" />
+<img src="./Graphics/Slide2.PNG" width="120%" height="120%" />
 
 ##### The goal for this analysis is to look at the various airlines and identify key areas of outperformance and underperformance using data from Twitter.
 - ##### There was a total of 9157 total Tweets that were considered negative.
@@ -27,9 +27,9 @@
 - ##### Longlines (2 percent) and damaged luggage (1 percent) both come in at the bottom two. The airlines are doing a great job tackling those two issues and ensuring complaints are kept at a minimum. 
 
 
-<img src="./Graphics/Slide3.PNG" width="100%" height="100%" />
+<img src="./Graphics/Slide3.PNG" width="120%" height="120%" />
 
-<img src="./Graphics/Slide4.PNG" width="100%" height="100%" /> 
+<img src="./Graphics/Slide4.PNG" width="120%" height="120%"" /> 
 
 ##### Now that we get the overall picture, let’s zoom in on the airlines themselves and observe where each stands. This histogram also helps puts things into perspective. Focusing on one of these airlines will provide additional information to help reinforce what steps Freefall should take.
 - ##### Virgin America received the least amount of Tweets with 504, yet 30 percent of its total were positive; the highest amongst the group. It is excluded as an option for further study due to the low amount of Tweets to support it.
@@ -37,21 +37,21 @@
 - ##### United, American, and US Airways clearly received high negative sentiment and were eliminated as choices.
 - ##### Both Delta and Southwest were comparable. Both are equally strong with 24 percent of Tweets being positive, yet Delta has less negative Tweets. It is true there is a slight edge to Southwest having stronger data with 198 more total Tweets. Let’s make an assumption that Delta’s next 198 Tweets were negative and that was added to its count, it would still have less negative Tweets than Southwest. As it stands when comparing negative reasons, Delta does better than Southwest in 7 out of 10 Negative Reason categories. This is why I chose Delta as the overall best airline to focus on. 
 
-<img src="./Graphics/Slide5.PNG" width="100%" height="100%" />
+<img src="./Graphics/Slide5.PNG" width="120%" height="120%" />
 
 ##### Here is a visualization of Delta against Southwest. The highlighted bars are categories that Delta received lower negative Tweets in. Why does this matter for Freefall? What benefit does Freefall get in understanding what Delta does? Delta has built a strong customer reputation, that is true, but that is not the only thing. Recall that the biggest issue affecting the top airlines was poor customer service. From this chart we can say that Delta has figured out how to control the biggest factor hurting an airlines’ reputation. If Freefall can apply similar ideas into their own process, there’s a good chance it will see a positive reaction from customers. 
 
-<img src="./Graphics/Slide6.PNG" width="100%" height="100%" />
+<img src="./Graphics/Slide6.PNG" width="120%" height="120%" />
 
 ##### To supplement the previous slide, here is how Delta ranks in each category against the other Airlines. Virgin Airways was excluded because, as mentioned, it had very little Tweets to support its case and this would skew the findings. The performance of Delta is strong across the board, which reinforces why Delta is a good example for Freefall Airlines to focus on. It is true that the data set recorded more total Tweets for the other airlines, but consider that a large percentage of that were negative vs. Delta's 43 percent. It is Delta's ability to control that number which makes them an ideal choice. 
 
-<img src="./Graphics/Slide7.PNG" width="100%" height="100%" />
+<img src="./Graphics/Slide7.PNG" width="120%" height="120%" />
 
 - ##### 658 of Delta’s 955 negative Tweets were from users that Tweeted multiple times from the same account. The assumption is that these users are repeat customers. In this case, that 658 makes up about 68.9 percent of all negative Tweets and about 30 percent of the grand total.
 - ##### The probability that someone will fly with Delta and have a negative experience, given that they already had a negative experience, is 43 percent.
 - ##### This insight is valuable because while Delta is performing well, a good chunk of their negative feedback is assumingly from repeat customers. This is an area that they seem to not be addressing. Freefall can avoid this issue and develop a strategy to improve the experience of their loyal customers and in return see an increase in positive feedback. 
 
-<img src="./Graphics/Slide8.PNG" width="100%" height="100%" />
+<img src="./Graphics/Slide8.PNG" width="120%" height="120%" />
 
 - ##### R = 0.72
 - ##### There is a strong positive correlation between the Airline Sentiment Confidence and Negative Reason Confidence. 
@@ -59,7 +59,7 @@
 - ##### If, for example, Airline Sentiment Confidence increases to 1, it’s very likely that the Negative Reason Confidence will be 1, too, which means the data is not entirely random. 
 - ##### This information helps support the validity of the data. 
 
-<img src="./Graphics/Slide9.PNG" width="100%" height="100%" />
+<img src="./Graphics/Slide9.PNG" width="120%" height="120%" />
 
 ##### What do these insights mean for Freefall? Early on we indicated what the major issues are amongst all of the top airlines. Right away, we saw that having poor customer service is the top contributor to why an airline receives negative reviews. Other major areas that had a negative impact to their reputation were late flights, cancelled flights, lost luggage's, and because we do not have a specific reason for the “Can’t Tell” category we will substitute that with bad flights. These are considered the top 5 reasons a customer will post a negative Tweet about an airline.
 
