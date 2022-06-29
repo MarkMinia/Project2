@@ -43,7 +43,7 @@
 
 <img src="./Graphics/Slide6.PNG" width="100%" height="100%" />
 
-##### To supplement the previous slide, here is how Delta ranks in each category against the other Airlines. Virgin Airways was excluded because, as mentioned, it had very little Tweets to support its case and this would skew the findings. The performance of Delta is strong across the board, which reinforces why Delta is a good example for Freefall Airlines to focus on. 
+##### To supplement the previous slide, here is how Delta ranks in each category against the other Airlines. Virgin Airways was excluded because, as mentioned, it had very little Tweets to support its case and this would skew the findings. The performance of Delta is strong across the board, which reinforces why Delta is a good example for Freefall Airlines to focus on. It is true that the data set recorded more total Tweets for the other airlines, but consider that a large percentage of that were negative vs. Delta's 43 percent. It is Delta's ability to control that number which makes them an ideal choice. 
 
 <img src="./Graphics/Slide7.PNG" width="100%" height="100%" />
 
