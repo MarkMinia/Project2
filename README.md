@@ -29,7 +29,7 @@
 
 <img src="./Graphics/Slide3.PNG" width="120%" height="120%" />
 
-<img src="./Graphics/Slide4.PNG" width="120%" height="120%"" /> 
+<img src="./Graphics/Slide4.PNG" width="120%" height="120%" /> 
 
 ##### Now that we get the overall picture, let’s zoom in on the airlines themselves and observe where each stands. This histogram also helps puts things into perspective. Focusing on one of these airlines will provide additional information to help reinforce what steps Freefall should take.
 - ##### Virgin America received the least amount of Tweets with 504, yet 30 percent of its total were positive; the highest amongst the group. It is excluded as an option for further study due to the low amount of Tweets to support it.
