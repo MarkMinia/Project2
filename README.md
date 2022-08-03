@@ -3,6 +3,8 @@
 #### [Original CSV](https://github.com/MarkMinia/Project2/blob/main/Dataset/Tweets.csv)
 #### [Cleaned CSV](https://github.com/MarkMinia/Project2/blob/main/Dataset/Tweets%20-%20Cleaned.csv)
 
+##### In this project I used Excel and PowerPoint to complete the assignment.
+
 ##### Case Study: An airline company named Freefall Airlines does not have the best reputation, and they are trying to remedy that. They have tasked me with analyzing data from Twitter that captures people’s sentiments about various airline companies. The marketing team will use my results to come up with a brand-new advertising campaign modeled around the most positively rated airlines. My analysis would also be focusing on an airline to understand and show Freefall Airlines what to do/not to do and how to tackle these issues. 
 
 ##### Important notes: There is no Twitter data provided for Freefall Airlines, so we can not identify issues specific to Freefall. We are instead analyzing other airlines to create a general example for success.
