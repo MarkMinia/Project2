@@ -29,7 +29,7 @@
 - ##### Longlines (2 percent) and damaged luggage (1 percent) both come in at the bottom two. The airlines are doing a great job tackling those two issues and ensuring complaints are kept at a minimum. 
 
 
-<img src="./Graphics/Slide3.PNG" width="120%" height="120%" />
+<img src="./Graphics/Slide3..PNG" width="120%" height="120%" />
 
 <img src="./Graphics/Slide4.PNG" width="120%" height="120%" /> 
 
